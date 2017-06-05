@@ -1,6 +1,6 @@
 # TechClub JavaScript Style Guide {
 
-*for from [airbnb/javascript](https://github.com/airbnb/javascript)
+*fork from [airbnb/javascript](https://github.com/airbnb/javascript)
 
 *A mostly reasonable approach to JavaScript*
 
