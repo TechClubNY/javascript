@@ -1,4 +1,6 @@
-# Airbnb JavaScript Style Guide() {
+# TechClub JavaScript Style Guide {
+
+*for from [airbnb/javascript](https://github.com/airbnb/javascript)
 
 *A mostly reasonable approach to JavaScript*
 
